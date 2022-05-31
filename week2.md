@@ -12,9 +12,9 @@
 | JingJing |    Alex            |    |
 | Liam |    Alex            |    |
 | Lucas |     Sophia           |      |
-| Mano |       Sophia         |       |
+| Mano |       Prue         |       |
 | Phu |      Sophia          |      |
-| Rakim |  Prue               |      |
+| Rakim |  Sophia               |      |
 | Saia |  Clementine              |       |
 | Tony |     Clementine           |       |
 | Yiyu |     Sophia           |     |
