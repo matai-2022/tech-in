@@ -1,4 +1,4 @@
-# Tech-in roster for Horoeka 2021
+# Tech-in roster for Matai 2022
 
 The purpose of tech-ins:
 - They help staff check-in with how you're doing technically.
@@ -17,6 +17,6 @@ This is also a time for you to give us any feedback on we can support you and if
 
 ### Rosters linked below:
 
-* [Week 2](week-2.md)
-* [Week 4](week-4.md)
-* [Week 6](week-6.md)
+* [Week 2](week2.md)
+* [Week 4](week4.md)
+* [Week 6](week6.md)
