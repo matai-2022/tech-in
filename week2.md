@@ -3,16 +3,16 @@
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
 | Christelle |   Alex        |        |
-| Ciara |       Prue         |          |
-| Daniel |  Prue               |          |
-| David |  Prue            |         |
-| Diana |     Prue          |          |
+| Ciara |       Prue         |    ✔️      |
+| Daniel |  Prue               |  ✔️        |
+| David |  Prue            |   ✔️      |
+| Diana |     Prue          |  ✔️        |
 | Docie |    Alex            |         |
 | Erin |  Clementine             |          |
 | JingJing |    Alex            |    |
 | Liam |    Alex            |    |
 | Lucas |     Sophia           |      |
-| Mano |       Prue         |       |
+| Mano |       Prue         |  ✔️     |
 | Phu |      Sophia          |      |
 | Rakim |  Sophia               |      |
 | Saia |  Clementine              |       |
