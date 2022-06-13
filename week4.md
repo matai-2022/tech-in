@@ -2,20 +2,20 @@
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
-| Christelle |           |       ️   |
-| Ciara |                |          |
-| Daniel |                 |  ️        |
-| David |              |          |
-| Diana |               |      ️    |
-| Docie |                |         |
-| Erin |               |        |
-| JingJing |                |      |
-| Liam |                |    |
-| Lucas |                |      |
-| Mano |                |       |
-| Phu |                |     |
-| Rakim |                 |       |
-| Saia |                |      |
-| Tony |                |       |
-| Yiyu |                |     |
-| Ysmael |                |     |
+| Christelle |  Clementine         |       ️   |
+| Ciara |   Clementine             |          |
+| Daniel |   Clementine              |  ️        |
+| David |      Sophia        |          |
+| Diana |   Sophia            |      ️    |
+| Docie |   Sophia             |         |
+| Erin |     Prue          |        |
+| JingJing |  Prue              |      |
+| Liam |     Prue           |    |
+| Lucas |     Prue           |      |
+| Mano |    Ahmad            |       |
+| Phu |      Ahmad          |     |
+| Rakim |    Ahmad             |       |
+| Saia |     Ahmad           |      |
+| Tony |     Alex           |       |
+| Yiyu |     Alex           |     |
+| Ysmael |  Alex              |     |
